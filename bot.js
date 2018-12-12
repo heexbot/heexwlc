@@ -5,7 +5,7 @@ client.on('guildMemberAdd', member => {
 const mohamed= member.guild.channels.get("520262638010368002");
 if(!mohamed) return;
 if(mohamed) {
-setTimeout(() => mohamed.send(`**# Welllllllcome , to ObX Kingdom 🌹 .**`), 4000)        
+setTimeout(() => mohamed.send(`**# Welllllllcome , to  Nine 🌹 .**`), 4000)        
 }
 });
 
